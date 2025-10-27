@@ -1,7 +1,7 @@
-John Moon
-Prof. Ledon
-IS 211 - Software App. Programming II
-Oct. 25, 2025
+John Moon <br>
+Prof. Ledon <br>
+IS 211 - Software App. Programming II <br>
+Oct. 25, 2025 <br>
 
 ---
 ## Week 9 Web Scraping Scripts
